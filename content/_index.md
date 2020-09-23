@@ -57,5 +57,3 @@
 ## AI/ML
 
 ## Serverless Security
-
-
