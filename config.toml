@@ -55,4 +55,8 @@ name = "<i class='fas fa-fw fa-bullhorn'></i> Team"
 url = "/team"
 weight = 30
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-book'></i> Resources"
+url = "/resources"
+weight = 50
 
