@@ -17,14 +17,14 @@ defaultContentLanguageInSubdir= true
   disableNextPrev = false
   disableMermaid = false
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
-  titleSeparator = "::"
+  titleSeparator = ""
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Going Cloud Native"
 weight = 1
 languageName = "English"
 
@@ -45,10 +45,10 @@ weight = 11
 #url = "https://gohugo.io/"
 #weight = 20
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Speakers"
-url = "/speakers"
-weight = 30
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bullhorn'></i> Speakers"
+#url = "/speakers"
+#weight = 30
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bullhorn'></i> Team"

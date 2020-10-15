@@ -66,4 +66,4 @@
 
 {{< youtube 8KGqKZ_1Kl4 >}}
 
-![](faz-last.png)
+![Serverless Security](faz-last.png)
