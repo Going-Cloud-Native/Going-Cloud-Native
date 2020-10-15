@@ -4,56 +4,66 @@
 
 ## Cloud Infrastructure
 
-(Click on the image for the Youtube video.)
+{{< youtube 3aVxvcMav6s >}}
 
-[![Architecture](01-architecture-00.png)](https://www.youtube.com/watch?v=3aVxvcMav6s&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=2&t=0s)
+![Architecture](01-architecture-00.png)]
 
 ## Networking
 
-(Click on the image for the Youtube video.)
+{{< youtube UDiAbcYEle4 >}}
 
-[![Networking](01-networking-00.png)](https://www.youtube.com/watch?v=UDiAbcYEle4&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=3&t=0s)
+![Networking](01-networking-00.png)
 
 ## Storage
 
-(Click on the image for the Youtube video.)
+{{< youtube QqILw0cf6jA >}}
 
-[![Storage](01-storage-00.png.png)](https://www.youtube.com/watch?v=QqILw0cf6jA&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=4&t=0s)
+![Storage](01-storage-00.png.png)
 
 ## Databases
 
-(Click on the image for the Youtube video.)
+{{< youtube VxbrVNOxHBg >}}
 
-[![Databases](01-database-00.png)](https://www.youtube.com/watch?v=VxbrVNOxHBg&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=5&t=0s)
+![Databases](01-database-00.png)
 
-## Security
+## Security ([Slides](https://docs.google.com/presentation/d/1HwYGnU1tFdLTkRdFiaNT5WTVdRtZNNchQPlpqTHI49U/edit#slide=id.g4fd749874b_1_0))
 
-(Click on the image for the Youtube video.)
+{{< youtube RIrafA7pbok >}}
 
-[Slides](https://docs.google.com/presentation/d/1HwYGnU1tFdLTkRdFiaNT5WTVdRtZNNchQPlpqTHI49U/edit#slide=id.g4fd749874b_1_0)
-
-[![Ped](5-security.jpeg)](https://www.youtube.com/watch?v=RIrafA7pbok&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=6&t=3168s)
+![Ped](5-security.jpeg)
 
 ## DevOps
 
-(Click on the image for the Youtube video.)
+{{< youtube ejDBbhF1H-c >}}
 
-[![Thiru](07-devops-04.png)](https://www.youtube.com/watch?v=ejDBbhF1H-c&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=7&t=1s)
+![Thiru](07-devops-04.png)
 
 ## Containers
 
-(Click on the image for the Youtube video.)
+{{< youtube IF7JxPi_EhM >}}
 
-[![Osama](08-containers-04.png)](https://www.youtube.com/watch?v=IF7JxPi_EhM&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=8&t=0s)
+![Osama](08-containers-04.png)
 
 ## Serverless
 
-(Click on the image for the Youtube video.)
+{{< youtube ETSR8Wok_LY >}}
 
-[![Serverless](09-serverless-01.png)](https://www.youtube.com/watch?v=ETSR8Wok_LY&list=PL52Lw7XWW9sPFnkpuO7Ym4GQK2MrRFQTc&index=8)
+![Serverless](09-serverless-01.png)
 
 ## Data Engineering
 
+{{< youtube 57U-ziJMB9M >}}
+
+![Data Engineering](faz-last-three.png)
+
 ## AI/ML
 
+{{< youtube TOxSS91hdgc >}}
+
+![AI/ML](faz-last-two.png)
+
 ## Serverless Security
+
+{{< youtube 8KGqKZ_1Kl4 >}}
+
+![](faz-last.png)
