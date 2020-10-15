@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on Going Cloud Native</title>
+    <link>/team/</link>
+    <description>Recent content in Teams on Going Cloud Native</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Oct 2020 15:00:09 +0800</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team</title>
+      <link>/team/team/</link>
+      <pubDate>Thu, 15 Oct 2020 15:00:09 +0800</pubDate>
+      
+      <guid>/team/team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

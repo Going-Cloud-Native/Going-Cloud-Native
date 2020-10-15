@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation for Hugo Learn Theme</title>
+    <title>Going Cloud Native</title>
     <link>/</link>
-    <description>Recent content on Documentation for Hugo Learn Theme</description>
+    <description>Recent content on Going Cloud Native</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Thu, 15 Oct 2020 15:12:26 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Members</title>
+      <link>/members/</link>
+      <pubDate>Thu, 15 Oct 2020 15:12:26 +0800</pubDate>
+      
+      <guid>/members/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
