@@ -9,7 +9,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  editURL = "https://github.com/Going-Cloud-Native/Going-Cloud-Native"
   description = "Going Cloud Native"
   author = "Mathieu Cornic"
   showVisitedLinks = true
@@ -31,7 +31,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/omar16100/Going-Cloud-Native"
+url = "https://github.com/Going-Cloud-Native/Going-Cloud-Native"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
